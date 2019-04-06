@@ -1,0 +1,2 @@
+@python xkcd.py %*
+@pause
