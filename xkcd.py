@@ -25,6 +25,6 @@ for i in range(1,10000):
         open('C:\\xkcd\\'+str(i)+'.jpg','wb').write(x.content)
         print('Downloaded image '+str(i))
     else:
-        print('we\'ve run out of comics to download, it\'s over. Thank you :)')
+        print('we\'ve run out of comics to download, it\'s over. Thank you.')
         break;
 
