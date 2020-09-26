@@ -1,7 +1,8 @@
 # Xkcd
+
 (WINDOWS ONLY)
 
-This python script downloads all xkcd comics and saves it in C:/xkcd in your pc :) 
+This python script downloads all xkcd comics and saves it in C:\xkcd in your pc :) 
 Make sure: 
 
 	0. You have a working internet connection
